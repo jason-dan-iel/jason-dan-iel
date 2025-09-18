@@ -19,5 +19,3 @@ I'm a passionate developer interested in various fields including web developmen
 - Contribute to open-source projects
 - Build impactful software solutions
 
-## 📈 GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jason-dan-iel&show_icons=true&theme=radical)
