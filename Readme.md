@@ -4,7 +4,7 @@ I'm a passionate developer interested in various fields including web developmen
 
 ## 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/jason-daniel-541ab8231/)
-- [Email](mailto:daniel.2@iitj.ac.in)
+- [Email](mailto:jasondaniel18@gmail.com)
 
 ## 🔧 Technologies & Tools:
 - Programming Languages: Python, JavaScript, etc.
